@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
