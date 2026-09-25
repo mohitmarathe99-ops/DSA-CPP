@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0485-max-consecutive-ones) |
