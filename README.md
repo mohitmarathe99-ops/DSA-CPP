@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
