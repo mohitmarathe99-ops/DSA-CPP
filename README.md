@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
