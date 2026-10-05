@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
