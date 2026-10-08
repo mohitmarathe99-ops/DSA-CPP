@@ -1,6 +1,7 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
+        //Mohit
              int n = nums.size();
         int low = 0, high = n - 1;
         int answer = n; 
