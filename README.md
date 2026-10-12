@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0162-find-peak-element) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
