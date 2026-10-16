@@ -1,5 +1,6 @@
 class Solution {
 public:
+//first lc hard
     int studcnt(vector<int>& nums, int mid) {
         int cnt = 1;
         int sum = 0;
