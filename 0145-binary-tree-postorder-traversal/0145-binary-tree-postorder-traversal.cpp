@@ -11,18 +11,30 @@
  */
 class Solution {
 public:
+//root-node nvm 
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> result;
-        postorderHelper(root, result);
+        if (root==nullptr) return result;
+
+        stack<TreeNode*> st;
+        st.push(root);
+
+        while (!st.empty()) {
+            TreeNode* root = st.top();
+            st.pop();
+            result.push_back(root->val);
+
+            if (root->left!=nullptr) {
+                st.push(root->left);
+            }
+            if (root->right!=nullptr) {
+                st.push(root->right);
+            }
+        }
+
+        reverse(result.begin(), result.end());
         return result;
         
     }
-    void postorderHelper(TreeNode* root, vector<int>& result) {
-        if (root == nullptr) {
-            return;
-        }
-        postorderHelper(root->left, result);
-        postorderHelper(root->right, result);
-        result.push_back(root->val);
-    }
 };
+ 
