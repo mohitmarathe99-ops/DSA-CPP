@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
@@ -226,4 +228,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
