@@ -3,6 +3,7 @@ private:
     std::stack<long long> st;
     long long minVal;
 public:
+//better approach??
     MinStack() {
         minVal = INT_MAX;
     }
