@@ -3,6 +3,7 @@ class MyQueue {
         std::stack<int> s1;
         std::stack<int> s2;
 public:
+//hell yeahh
     MyQueue() {
         
     }
