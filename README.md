@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0503-next-greater-element-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
