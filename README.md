@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0496-next-greater-element-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0860-lemonade-change) |
 ## Stack
