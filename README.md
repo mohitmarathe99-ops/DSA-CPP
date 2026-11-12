@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
