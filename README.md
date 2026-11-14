@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1248-count-number-of-nice-subarrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0268-missing-number) |
 ## Sorting
 |  |
