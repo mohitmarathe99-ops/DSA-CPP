@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0231-power-of-two) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
