@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0189-rotate-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0191-number-of-1-bits) |
