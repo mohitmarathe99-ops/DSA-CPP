@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1020-number-of-enclaves) |
 ## Quicksort
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mohitmarathe99-ops/DSA-CPP/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
